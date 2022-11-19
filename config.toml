@@ -1,0 +1,90 @@
+baseURL = "https://shahules.org"
+title = "Shahul Es"
+theme = "KeepIt"
+copyright = "2022 Shahul Es"
+enableEmoji = true
+enableRobotsTXT = true
+defaultContentLanguage = "en"
+Paginate = 10
+preserveTaxonomyNames = true
+googleAnalytics = "UA-140141781-1"
+pygmentsUseClasses = true
+pygmentsCodefences = true
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[author]
+  name = "Shahul"
+
+  [params.publisher]
+    name = "Shahul"
+
+    [params.publisher.logo]
+      url = "logo.png"
+      width = 127
+      height = 40
+
+  [params.logo]
+    url = "/logo.png"
+    width = 127
+    height = 40
+
+  [params.image]
+    url = "/cover.jpg"
+    width = 800
+    height = 600
+
+[Permalinks]
+  posts = "/posts/:slug"
+  code = "/go/:filename"
+
+  [menu]
+    [[menu.main]]
+      name = "Blogs"
+      url = "/posts/"
+      weight = 1
+
+    [[menu.main]]
+      name = "About"
+      url = "/about"
+      weight = 2
+
+    [[menu.main]]
+      name = "News"
+      url = "/news"
+      weight = 3
+
+    [[menu.main]]
+      name = "Projects"
+      url = "/projects"
+      weight = 4
+
+[params]
+  author = "Shahul Es"
+  subtitle = "Machine Learning Scientist"
+  subtitle_additional = "Data Science, ML Engineering, Structuted data, NLP, Audio processing"
+  subtitle_additional_2 = "Books, Hiking, Travelling"
+  description = "Data science expert with 5+ years of acquaintance. Kaggle GrandMaster & Opensource contributor."
+  socialShare = true
+
+[params.gravatar]
+    email = "shahules786@gmail.com"
+
+[params.social]
+  Github = "shahules786"
+  Linkedin = "shahules"
+  Twitter = "Shahules786"
+  Email = "shahules786@gmail.com"
+  Kaggle = "shahules"
+
+
+[params.share]
+  Twitter = true
+  Linkedin = true
+
+[languages]
+  [languages.en]
+    lang = "en"
+    languageName = "English"
+    weight = 1

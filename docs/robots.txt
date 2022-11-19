@@ -63,4 +63,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://shahules.org/sitemap.xml
+Sitemap: https://shahules786.github.io/sitemap.xml

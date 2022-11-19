@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Shahul Es</title>
-    <link>https://shahules.org/categories/</link>
+    <link>https://shahules786.github.io/categories/</link>
     <description>Recent content in Categories on Shahul Es</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>2022 Shahul Es</copyright><atom:link href="https://shahules.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2022 Shahul Es</copyright><atom:link href="https://shahules786.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

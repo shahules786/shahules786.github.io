@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Shahul Es</title>
+    <link>https://shahules.org/tags/</link>
+    <description>Recent content in Tags on Shahul Es</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>2022 Shahul Es</copyright><atom:link href="https://shahules.org/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

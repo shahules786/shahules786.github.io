@@ -10,6 +10,7 @@ preserveTaxonomyNames = true
 googleAnalytics = "UA-140141781-1"
 pygmentsUseClasses = true
 pygmentsCodefences = true
+publishDir = "docs"
 
 [blackfriday]
   hrefTargetBlank = true

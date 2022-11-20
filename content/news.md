@@ -2,6 +2,13 @@
 
 *I enjoy sharing knowledge and having conversations on any topic. I have learned a lot from public workshops, hackathons, and communities. I believe I am obliged to give back to the community. I give interviews and talks when invited. [Contact me if you want me to speak at any event.]()* 🎤 
 
+#### *[Got Promoted to a Kaggle GrandMaster]()*
+
+*I was promoted to a Kaggle GrandMaster in Notebooks tier. This comes after a long 4 year journey in kaggle through which I learned a ton and met some wonderful AI talents worldwide. See my kaggle profile [here](https://www.kaggle.com/shahules)*
+
+![](/promoted_gm_small.jpeg)
+
+
 #### *[Chai time Kaggle Talks]()*
 
 *The session was organized by [Weights and bias]() and hosted by Sanyam Bhutani. The main theme of the session was our approach to solving kaggle [Commonlit Competition](). In this session I am Vignesh Bhaskar shared our journey to the top 2% in the leaderboard.*

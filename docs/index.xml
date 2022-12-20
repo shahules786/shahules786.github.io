@@ -16,7 +16,7 @@
       <description>&lt;h4 id=&#34;hi-there-&#34;&gt;&lt;em&gt;Hi there&lt;/em&gt; 👋&lt;/h4&gt;
 &lt;p&gt;&lt;em&gt;I am Shahul. I am Data science expert well acquainted with Data analytics, classical ML, NLP, and audio processing. I am a Kaggle GrandMaster. I love contributing to opensource and has contributed &amp;amp; created several opensource ML projects. &lt;a href=&#34;&#34;&gt;I am open to data science consulting&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;I love reading non-fiction books 📚, hiking ⛰️ and travelling to distant cultures ✈️ .&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://shahules786.github.io/about.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./about.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -30,7 +30,7 @@
 &lt;p&gt;&lt;em&gt;I enjoy sharing knowledge and having conversations on any topic. I have learned a lot from public workshops, hackathons, and communities. I believe I am obliged to give back to the community. I give interviews and talks when invited. &lt;a href=&#34;&#34;&gt;Contact me if you want me to speak at any event.&lt;/a&gt;&lt;/em&gt; 🎤&lt;/p&gt;
 &lt;h4 id=&#34;got-promoted-to-a-kaggle-grandmaster&#34;&gt;&lt;em&gt;&lt;a href=&#34;&#34;&gt;Got Promoted to a Kaggle GrandMaster&lt;/a&gt;&lt;/em&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;em&gt;I was promoted to a Kaggle GrandMaster in Notebooks tier. This comes after a long 4 year journey in kaggle through which I learned a ton and met some wonderful AI talents worldwide. See my kaggle profile &lt;a href=&#34;https://www.kaggle.com/shahules&#34;&gt;here&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://shahules786.github.io/promoted_gm_small.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./promoted_gm_small.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;chai-time-kaggle-talks&#34;&gt;&lt;em&gt;&lt;a href=&#34;&#34;&gt;Chai time Kaggle Talks&lt;/a&gt;&lt;/em&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;em&gt;The session was organized by &lt;a href=&#34;&#34;&gt;Weights and bias&lt;/a&gt; and hosted by Sanyam Bhutani. The main theme of the session was our approach to solving kaggle &lt;a href=&#34;&#34;&gt;Commonlit Competition&lt;/a&gt;. In this session I am Vignesh Bhaskar shared our journey to the top 2% in the leaderboard.&lt;/em&gt;&lt;/p&gt;
 
@@ -40,10 +40,10 @@
 
 &lt;h4 id=&#34;featured-in-analytic-india-magazine&#34;&gt;&lt;em&gt;&lt;a href=&#34;&#34;&gt;Featured in analytic India magazine&lt;/a&gt;&lt;/em&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;em&gt;I was fortunate to be featured in analytic india magazine AIM Stories. Here I share my journey in data-science and Kaggle. I also answered some interesting questions from the host Meeta. Read the full article &lt;a href=&#34;https://analyticsindiamag.com/i-used-to-miss-college-classes-to-kaggle-kochi-based-grandmaster-shahul-es/&#34;&gt;here&lt;/a&gt;.&lt;/em&gt;
-&lt;img src=&#34;https://shahules786.github.io/analyticindia.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;./analyticindia.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;talk-on-kaggle-days-delhi&#34;&gt;&lt;em&gt;&lt;a href=&#34;&#34;&gt;Talk on Kaggle days Delhi&lt;/a&gt;&lt;/em&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;em&gt;This event was organized by Kaggle Days Delhi. In this event I shared my knowledge about Sentiment analysis in NLP. Various methods from traditional algorithms to SOTA were discussed. Co-speaker Sandip talked about his expertise in building large scale recommendation systems. See the &lt;a href=&#34;https://docs.google.com/presentation/d/1E3sXQmzJf1w7Ois3TAA6vS7ofBLEj6vWLbq6u9otA4I/edit?usp=sharing&#34;&gt;slides&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://shahules786.github.io/kaggle_meetup_delhi.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./kaggle_meetup_delhi.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;talk-on-recommendation-systems---kochi&#34;&gt;&lt;em&gt;&lt;a href=&#34;&#34;&gt;Talk on Recommendation systems - Kochi&lt;/a&gt;&lt;/em&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;em&gt;See the &lt;a href=&#34;https://docs.google.com/presentation/d/1LEqwgR3IqHlDlixpo8JxyvZbjQ_sMQ-p_zshJbiomzs/edit?usp=sharing&#34;&gt;slides&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
@@ -55,13 +55,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://shahules786.github.io/posts/</guid>
-      <description>&lt;h3 id=&#34;natural-language-processing&#34;&gt;&lt;em&gt;&lt;a href=&#34;&#34;&gt;Natural language processing&lt;/a&gt;&lt;/em&gt;&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;ml-in-audio-processing&#34;&gt;&lt;em&gt;&lt;a href=&#34;&#34;&gt;ML in Audio processing&lt;/a&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://medium.com/@shahules786/a-complete-guide-to-speech-enhancement-918c8cc28f2a&#34;&gt;A complete guide to speech enhancement&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;natural-language-processing&#34;&gt;&lt;em&gt;&lt;a href=&#34;&#34;&gt;Natural language processing&lt;/a&gt;&lt;/em&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://neptune.ai/blog/tips-to-train-nlp-models&#34;&gt;Tips and Tricks to Train State-Of-The-Art NLP Models&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://neptune.ai/blog/sentiment-analysis-python-textblob-vs-vader-vs-flair&#34;&gt;Sentiment Analysis in Python&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://medium.com/@shahules786/sentiment-analysis-build-your-nlp-project-d41257d06c8c&#34;&gt;Sentiment analysis: build your NLP project&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://neptune.ai/blog/data-augmentation-nlp&#34;&gt;Data Augmentation in NLP&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;

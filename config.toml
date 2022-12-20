@@ -11,6 +11,7 @@ googleAnalytics = "UA-140141781-1"
 pygmentsUseClasses = true
 pygmentsCodefences = true
 publishDir = "docs"
+relativeURLs = true
 
 [blackfriday]
   hrefTargetBlank = true
